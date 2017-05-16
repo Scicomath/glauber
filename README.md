@@ -7,6 +7,12 @@ There are two types of glauber model, one is optical model which use optical-lim
 The aim of this code is to:
  - Calculate N_part and N_coll given impact parameter b
  - Calculate average impact parameter b for given centrality
+ 
+## Input
+The input of Glauber model is:
+ - Charge distribution of nucleus
+ - Inelastic nucleon-nucleon cross section
 
+The charge distribution of nucleus is often get from elastic electron scattering experiment. See reference [H. De Vries, C.W. De Jager, C. De Vries, Nuclear charge-density-distribution parameters from elastic electron scattering, Atomic Data and Nuclear Data Tables, Volume 36, Issue 3, 1987, Pages 495-536, ISSN 0092-640X](http://faculty.virginia.edu/ncd/dldata/1987_source.pdf) for details.
 ## Usage
 to be continue...
